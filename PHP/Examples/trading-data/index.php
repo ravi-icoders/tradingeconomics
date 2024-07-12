@@ -123,7 +123,7 @@ $allowIndicators = ['wages','banks balance sheet', 'business confidence','capita
 </head>
 <body>
     <div class="container">
-        <h2>Data of Country and Indicator Wise</h2>
+        <h2>Data of Country and Indicator</h2>
         <form method="POST" id="data-form" data-parsley-validate>
             <table>
                 <tr>
